@@ -1,0 +1,35 @@
+{
+  "name": "gulp-module",
+  "version": "0.1.0",
+  "description": "Awesome node modules.",
+  "keywords": [
+    "gulp-module",
+    "zce"
+  ],
+  "repository": "zce/gulp-module",
+  "license": "MIT",
+  "author": "xbl113lbw <xbl113lbw@163.com> (https://github.com/xbl113lbw/gulp-module)",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "lint": "standard --fix",
+    "prepare": "npm run lint"
+  },
+  "renovate": {
+    "extends": [
+      "zce"
+    ]
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "16.0.3"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}
