@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ npm install gulp-module
+$ npm install bw-gulp-module
 
 # or yarn
-$ yarn add gulp-module
+$ yarn add bw-gulp-module
 ```
 
 ## Usage
@@ -23,9 +23,7 @@ $ yarn add gulp-module
 <!-- TODO: Introduction of Usage -->
 
 ```javascript
-const gulpModule = require('gulp-module')
-const result = gulpModule('w')
-// result => 'w@zce.me'
+const gulpModule = require('bw-gulp-module')
 ```
 
 ## API

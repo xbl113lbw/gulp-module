@@ -1,9 +1,9 @@
 {
-    "name": "gulp-module",
+    "name": "bw-gulp-module",
     "version": "0.1.0",
     "description": "Awesome node modules.",
     "keywords": [
-        "gulp-module",
+        "bw-gulp-module",
         "zce"
     ],
     "repository": "zce/gulp-module",
